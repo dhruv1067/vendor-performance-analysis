@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project that analyzes vendor performance, inventory efficiency, profitability, and purchasing behavior using Python, SQL-style data analysis, and Power BI.
 
-The project processes large-scale retail transaction data to uncover actionable business insights that help optimize inventory management, vendor relationships, pricing strategies, and profitability. The analysis focuses on identifying underperforming brands, evaluating vendor dependency, measuring inventory turnover, and validating business hypotheses through statistical analysis. The business objectives include improving inventory efficiency, reducing vendor risk, and increasing sustainable profitability. :contentReference[oaicite:0]{index=0}
+The project processes large-scale retail transaction data to uncover actionable business insights that help optimize inventory management, vendor relationships, pricing strategies, and profitability. The analysis focuses on identifying underperforming brands, evaluating vendor dependency, measuring inventory turnover, and validating business hypotheses through statistical analysis. The business objectives include improving inventory efficiency, reducing vendor risk, and increasing sustainable profitability.
 
 ---
 
@@ -70,7 +70,7 @@ To improve analysis quality, transactions with non-positive gross profit, non-po
 
 ### Executive Dashboard
 
-images/dashboard1.png
+images/dashboard.png
 
 ---
 
