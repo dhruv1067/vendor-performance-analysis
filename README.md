@@ -35,10 +35,12 @@ This project answers several important business questions:
 
 The original project was built using approximately **2 GB** of retail transaction data.
 
-Due to GitHub file size limitations, the large transaction datasets (`sales.csv` and `purchases.csv`) are not included in this repository.
+Due to GitHub file size limitations, the large transaction datasets (`sales.csv` and `purchases.csv`) are not included in this repository. Samples of those datasets are included.
 
 Included datasets:
 
+- purchases_sample.csv
+- sales_sample.csv 
 - begin_inventory.csv
 - end_inventory.csv
 - purchase_prices.csv
@@ -60,7 +62,7 @@ The following preprocessing steps were performed:
 - Profitability calculations
 - Stock turnover calculations
 
-To improve analysis quality, transactions with non-positive gross profit, non-positive profit margin, and zero sales quantity were filtered before performing the final analysis. :contentReference[oaicite:1]{index=1}
+To improve analysis quality, transactions with non-positive gross profit, non-positive profit margin, and zero sales quantity were filtered before performing the final analysis.
 
 ---
 
@@ -68,7 +70,7 @@ To improve analysis quality, transactions with non-positive gross profit, non-po
 
 ### Executive Dashboard
 
-![Dashboard](images/dashboard1.png)
+images/dashboard1.png
 
 ---
 
@@ -76,23 +78,23 @@ To improve analysis quality, transactions with non-positive gross profit, non-po
 
 ### 📌 Vendor Dependency
 
-- Top 10 vendors account for **65.69%** of total purchases, highlighting a significant dependency on a small number of suppliers. Diversifying vendor partnerships could reduce supply chain risk. :contentReference[oaicite:2]{index=2}
+- Top 10 vendors account for **65.69%** of total purchases, highlighting a significant dependency on a small number of suppliers. Diversifying vendor partnerships could reduce supply chain risk.
 
 ### 📌 Bulk Purchasing
 
-- Bulk purchasing reduces unit cost by approximately **72%**, demonstrating clear economies of scale and supporting larger purchase orders where appropriate. :contentReference[oaicite:3]{index=3}
+- Bulk purchasing reduces unit cost by approximately **72%**, demonstrating clear economies of scale and supporting larger purchase orders where appropriate.
 
 ### 📌 Inventory Management
 
-- Approximately **$2.71M** of inventory remains unsold, indicating opportunities to optimize purchasing, reduce holding costs, and improve cash flow. :contentReference[oaicite:4]{index=4}
+- Approximately **$2.71M** of inventory remains unsold, indicating opportunities to optimize purchasing, reduce holding costs, and improve cash flow.
 
 ### 📌 Promotional Opportunities
 
-- **198 brands** exhibit low sales but high profit margins, suggesting they could benefit from targeted promotions or pricing adjustments to increase sales volume without sacrificing profitability. :contentReference[oaicite:5]{index=5}
+- **198 brands** exhibit low sales but high profit margins, suggesting they could benefit from targeted promotions or pricing adjustments to increase sales volume without sacrificing profitability.
 
 ### 📌 Profitability Analysis
 
-Statistical hypothesis testing confirmed a significant difference in profit margins between high-performing and low-performing vendors, indicating distinct profitability models and opportunities for different optimization strategies. :contentReference[oaicite:6]{index=6}
+Statistical hypothesis testing confirmed a significant difference in profit margins between high-performing and low-performing vendors, indicating distinct profitability models and opportunities for different optimization strategies.
 
 ---
 
@@ -102,7 +104,7 @@ Statistical hypothesis testing confirmed a significant difference in profit marg
 - Diversify vendor partnerships.
 - Increase bulk purchasing where economically beneficial.
 - Improve management of slow-moving inventory.
-- Strengthen marketing and distribution strategies for low-performing vendors. :contentReference[oaicite:7]{index=7}
+- Strengthen marketing and distribution strategies for low-performing vendors.
 
 ---
 
