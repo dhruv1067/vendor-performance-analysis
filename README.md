@@ -70,7 +70,7 @@ To improve analysis quality, transactions with non-positive gross profit, non-po
 
 ### Executive Dashboard
 
-images/dashboard.png
+![Dashboard Overview](images/dashboard.png)
 
 ---
 
